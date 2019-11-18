@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Vets/introscene/introscene.unity
+    path: Assets/Vets/scenes/introscene.unity
     guid: 0c0a5faa65ebb441ba5e0e3efc7821b2
   m_configObjects: {}
