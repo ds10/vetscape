@@ -1,0 +1,2 @@
+/Volumes/hd/Git/vetscape/vets2D/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
+/Volumes/hd/Git/vetscape/vets2D/obj/Debug/Assembly-CSharp.csproj.CoreCompileInputs.cache
