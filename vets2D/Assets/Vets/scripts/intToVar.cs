@@ -9,7 +9,7 @@ public class intToVar : MonoBehaviour
 
     public Flowchart flowchart;
     Text txt;
-    private int currentscore = 0;
+
 
     void Start()
     {
